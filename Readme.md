@@ -1,3 +1,4 @@
+Project **TestMode** [![Build status](https://ci.appveyor.com/api/projects/status/luwfp59w9aa256kh/branch/main?svg=true)](https://ci.appveyor.com/project/AlexSashaNik/testmode/branch/main)
 
 
 Задача №2: **тестовый режим**
